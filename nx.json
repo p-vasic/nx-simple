@@ -17,5 +17,6 @@
         ]
       }
     }
-  }
+  },
+  "cacheableOperations": ["build", "link", "test", "e2e"]
 }
